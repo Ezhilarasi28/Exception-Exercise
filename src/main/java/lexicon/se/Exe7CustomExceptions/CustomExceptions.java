@@ -39,7 +39,7 @@ public class CustomExceptions {
             addName("Mandir");
             addName("Murthy");
 
-            findName("Beauty");
+            findName("Mandir");
             findName("David");
 
         } catch (DuplicateNameException |
@@ -49,7 +49,7 @@ public class CustomExceptions {
         }
 
         try {
-            addName("John");
+            addName("Anu");
         } catch (DuplicateNameException e) {
             System.out.println("Error: " + e.getMessage());
         }
