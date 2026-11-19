@@ -1,0 +1,2 @@
+Hello,I am learning Java
+This is Exercise 8.
